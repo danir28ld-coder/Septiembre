@@ -1,0 +1,754 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="X67KV2xT3pXHPFCfsGM4">
+    <mxGraphModel dx="3248" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-20" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Usuario DPA" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-13" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-10" parent="1" style="whiteSpace=wrap;html=1;align=center;rounded=1;" value="Generar Factura Electronica" vertex="1">
+          <mxGeometry height="95" width="120" x="95" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-28" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="318.5" />
+              <mxPoint x="60" y="318.5" />
+            </Array>
+            <mxPoint x="60" y="300" as="sourcePoint" />
+            <mxPoint x="60" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ingresa el Insumo a transferir" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="251" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.6;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="311" />
+              <mxPoint x="170" y="318.6" />
+              <mxPoint x="474" y="318.6" />
+            </Array>
+            <mxPoint x="192" y="309.98" as="sourcePoint" />
+            <mxPoint x="230" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-41" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Boton Transferir" vertex="1">
+          <mxGeometry height="60" width="120" x="-10" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-351" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-204" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="800" />
+              <mxPoint x="710" y="800" />
+              <mxPoint x="710" y="1970" />
+            </Array>
+            <mxPoint x="620" y="730" as="sourcePoint" />
+            <mxPoint x="474" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-353" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-352" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Boton Reproceso" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-35" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-37" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="10" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-64" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-298" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-297" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-36" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Termina transferencia de insumo" vertex="1">
+          <mxGeometry height="60" width="120" x="-9" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="-40" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-43" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Valida nomeclatura del ZIP&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Valida que el nombre del ZIP no se encuentre cargado en el aplicativo&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="-10" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Validaciones&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Inhabilta boton Transferir" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verificar Insumo" vertex="1">
+          <mxGeometry height="60" width="120" x="-10" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-66" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="840" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-95" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-66" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*El ZIP se puede descomrpimir&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Tiene insumo valido&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Tiene solo un archivo txt&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Nomeclatura del archivo txt&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*No existe el insumo txt con el mismo nombre cargado de forma previa&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Cuenta con codificacion UTF-8 (RNA017)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;*Valida que el txt tenga un encabezado y el layout sea correcto (RNA012)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="-10" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Validaciones&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-25" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;ZIP&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="45" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Valida que no tenga caracteres especiales no permitidos (RNA016)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;*Valida que no tenga una linea en blanco&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;*Valida que no tenga errores pertenecientes a datos agrupados (RNA021)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="200" x="-290" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Validaciones&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-180" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;.txt&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-125" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-98" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-94" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-125" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="321.43" y="281" />
+            </Array>
+            <mxPoint x="321.5" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marca error en listado de verificacion, inhabilita el boton &quot;Descargar errores&quot; y detiene las siguinetes validaciones" vertex="1">
+          <mxGeometry height="70" width="185" x="229" y="1055" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-127" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-126" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Termina Verificacion de insumo" vertex="1">
+          <mxGeometry height="60" width="120" x="-210" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-118" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.653;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" target="DDUVB4_bk2qrmLTNgyuY-85" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1150" />
+              <mxPoint x="-40" y="1150" />
+              <mxPoint x="-40" y="921.38" />
+            </Array>
+            <mxPoint x="70" y="1155" as="sourcePoint" />
+            <mxPoint x="90" y="1215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-105" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-108" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-302" y="1040" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-106" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-107" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-99" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-302" y="1190.06" />
+              <mxPoint x="-250" y="1190.06" />
+              <mxPoint x="-250" y="1230.06" />
+            </Array>
+            <mxPoint x="-302" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-108" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="-342" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-114" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-133" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="269.54" />
+            </Array>
+            <mxPoint x="-497.5" y="969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left:30.3pt;mso-add-space:auto;&amp;lt;br/&amp;gt;text-align:justify;mso-pagination:none;tab-stops:383.75pt&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Habilita el botón &lt;b style=&quot;&quot;&gt;”Descargar errores”&lt;/b&gt;&lt;br&gt;y permite descargar un archivo .txt con los detalles de los registros con&lt;br&gt;errores conforme la &lt;b style=&quot;&quot;&gt;(RNA020)&lt;/b&gt;.&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="94" width="185" x="-590" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-392" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-342" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-116" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-99" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-357.5" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-113" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Continua con la verificacion&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-557.5" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="35" y="1126" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-135" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-165" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-164" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-177" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-176" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-126" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Carga de Insumo" vertex="1">
+          <mxGeometry height="60" width="120" x="-210" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-137" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-136" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-134" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;El&lt;br&gt;sistema válida de forma&lt;br&gt;constante que exista conexión y que se esté realizando la carga del insumo .txt (&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;RNA055&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="208" x="-470" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-139" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-147" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-144" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-136" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Conexion de red" vertex="1">
+          <mxGeometry height="80" width="80" x="-637.5" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-141" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-126" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-757.54" y="1280" />
+              <mxPoint x="-180" y="1280" />
+            </Array>
+            <mxPoint x="-757.5" y="1220.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-138" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;Elimina&lt;br/&gt;el archivo que no fue posible cargar&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-817.5" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-690" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-152" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-151" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-144" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="*&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;El&lt;br&gt;sistema válida que el layout de&lt;br&gt;la información es acorde al layout del aplicativo.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="185" x="-727" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-610" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-154" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-164" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-419.92307692307713" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-159" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-158" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-151" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;layout correcto&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="-674.5" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-161" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1008.75" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-158" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;Marca el error en la &lt;b&gt;“Lista de verificación de la carga del insumo de información&lt;br&gt;al aplicativo y&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;detiene&lt;br&gt;las siguientes validaciones&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="174.5" x="-901.5" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-610" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-727" y="1602" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-167" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-164" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font&gt;*Válida que un registro no esté cargado de forma previa en el aplicativo&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font&gt;*&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Válida los Datos que se incorporan en la “descripción” del concepto de la factura&lt;br&gt;electrónica, conforme la regla &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(RNA036):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Válida que el campo “número de operación” no contenga datos distintos y que no este vacio.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Válida que&amp;nbsp;el campo “fecha de presentación” contenga datos de tipo fecha y no este vacio.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; - Valida que el campo&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“hora de presentación”&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;no contenga datos distintos y que no este vacio.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; - Valida que el campo&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“clave concepto del pago”&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;no contenga datos distintos y que no este vacio&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;*Válida que no existan errores en registros pertenecientes a datos agrupados conforme&lt;br&gt;la &lt;b&gt;(RNA021)&lt;/b&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left:17.15pt;text-align:justify;mso-pagination:&amp;lt;br/&amp;gt;none;tab-stops:383.75pt&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="210" width="512" x="-406" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-169" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-168" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-195" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-192" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-166" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="-190" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-199" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-979.92" y="1690" />
+              <mxPoint x="-979.92" y="294.62" />
+            </Array>
+            <mxPoint x="-616" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-168" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;El sistema descarta el registro, lo identifica para mostrar en el archivo .txt de errores y marca el Checklist en la &lt;b&gt;“Lista de verificación de la carga del&lt;br&gt;insumo de información al aplicativo”&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="94" width="230" x="-481" y="1643" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-173" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-174" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-365.5" y="1737" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-193" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-192" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-174" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Continua con las validaciones&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-426" y="1777" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-250" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-176" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font&gt;Identifica los registros con “Dependencias excluidas” del proceso de generación de&lt;br&gt;facturas conforme la regla &lt;b style=&quot;&quot;&gt;(RNA043)&lt;/b&gt;, los guarda para su descarga&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;en la opción &lt;b style=&quot;&quot;&gt;“Descargar pagos excluidos”&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="120" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-183" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-184" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-90" y="1350" as="sourcePoint" />
+            <mxPoint x="80" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font&gt;Válida que la fecha de las facturas corresponda al mes en curso en el que se está realizando la carga del insumo para la generación y timbrado de facturas conforme la &lt;b style=&quot;&quot;&gt;(RNA092)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="210" y="1322" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-185" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-188" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="1432" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-186" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-189" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-187" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-192" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-188" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="252" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-201" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-200" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-189" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;Descarta el registro, lo identifica para mostrar en él .txt de fechas diferentes y marca el Checklist “No existen registros con fechas diferentes” en la &lt;b&gt;“Lista de&lt;br&gt;verificación de la carga del insumo de información al aplicativo”&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="117" width="208" x="400" y="1442" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="332" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-205" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-204" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-192" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Termina la carga de insumo" vertex="1">
+          <mxGeometry height="60" width="120" x="-25" y="1837" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-196" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-120" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-203" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-192" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="1807.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-200" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Continua con la validaciones" vertex="1">
+          <mxGeometry height="60" width="120" x="444" y="1667.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-207" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-206" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-231" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-230" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-233" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-232" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-243" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-242" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-204" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Inicia Generacion de XML" vertex="1">
+          <mxGeometry height="60" width="120" x="-25" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-210" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-208" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-290" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-289" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-206" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Válida que no exista&lt;br/&gt;RFC genéricos conforme la regla &lt;b&gt;(RNA032)&lt;/b&gt;:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="370" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-212" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-211" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-214" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="2380" />
+            </Array>
+            <mxPoint x="625" y="2210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-208" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Insumo tiene&amp;nbsp; RFC genericos" vertex="1">
+          <mxGeometry height="94" width="100" x="400" y="2166" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-216" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-211" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Los almacena y los&lt;br&gt;contabiliza para su posterior consulta en la consulta pero no genera XML&lt;/span&gt;" vertex="1">
+          <mxGeometry height="73" width="160" x="530" y="2227" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-235" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-234" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60.00428571428577" y="2150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-230" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;*Se deberán de integrar los datos del SAT como emisor conforme la &lt;b style=&quot;&quot;&gt;(RNA034)&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; text-align: justify; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Se deberá de incorporar la fecha de emisión conforme a la &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; text-align: justify; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(RNA038)&lt;/b&gt;&lt;span style=&quot;font-family: Montserrat; text-align: justify; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left:14.7pt;text-align:justify;mso-pagination:&amp;lt;br/&amp;gt;none;mso-hyphenate:auto;tab-stops:383.75pt&quot;&gt;&lt;span style=&quot;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="226.71" x="95" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-232" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Se deberá de identificar la llave de una operación de pago conforme la &lt;b&gt;(RNA035)&lt;/b&gt;:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-110" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-237" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-236" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-241" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-234" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="-36.28999999999999" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-263" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.21" y="2380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-236" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;En caso de que alguno de&lt;br/&gt;los elementos esté vacío o el tipo de dato sea erróneo, descarta el registro.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="245" x="76.71000000000001" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-288" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-287" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-240" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;Continua con las validaciones&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-36.28999999999999" y="2365" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-247" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-246" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-222.71" y="2130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-265" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-264" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-242" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Se deberán de incorporar los datos en la descripción del concepto de la factura conforme la &lt;b&gt;(RNA036)&lt;/b&gt;:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-290" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-20" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-245" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="35" y="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-249" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-248" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-246" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="-290" y="2165" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-251" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-250" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-248" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;En caso de que el campo&lt;br&gt;“línea captura” no tenga un dato, continúa con el procesamiento conforme la &lt;b style=&quot;&quot;&gt;(RNA088)&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="126.29" x="-180" y="2165" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-261" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-246" y="2425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-250" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-family: Montserrat;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;En caso de que alguno de&lt;br/&gt;los elementos esté vacío o el tipo de dato sea erróneo, descarta el registro&lt;br/&gt;conforme a las &lt;b style=&quot;&quot;&gt;(RNA036) &lt;/b&gt;y&lt;b style=&quot;&quot;&gt; (RNA088)&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="174.5" x="-228.21" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-252" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-228.20999999999998" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-254" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="2260" as="sourcePoint" />
+            <mxPoint x="-306" y="2380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-258" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-260" y="2245" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-267" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-266" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-279" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-278" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-264" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;. Se deberá de&lt;br/&gt;incorporar el régimen fiscal del receptor conforme a la &lt;b&gt;(RNA041)&lt;/b&gt;:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="73" width="141" x="-461" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-271" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-270" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-274" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="2210" />
+              <mxPoint x="-470" y="2395" />
+            </Array>
+            <mxPoint x="-500" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-266" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="Cumple" vertex="1">
+          <mxGeometry height="80" width="80" x="-430.5" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-282" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-240" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="2445" />
+              <mxPoint x="-6.33" y="2445" />
+            </Array>
+            <mxPoint x="-380" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-270" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;En caso de que alguno de&lt;br/&gt;los elementos este vació o el tipo de dato sea erróneo, descarta el registro.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="141" x="-450.5" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-272" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-390" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-275" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-473" y="2205" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-278" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;Válida que no se&lt;/span&gt;&lt;br style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;generen XML duplicados o de información que ya ha sido procesada previamente&lt;/span&gt;&lt;br style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;conforme a la &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;(RNA053)&lt;/b&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px;&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="174.5" x="-674.5" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-280" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Validaciones&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-36.29" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-283" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font size=&quot;1&quot;&gt;Si&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-292" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-291" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-287" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-ascii-theme-font:major-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-hansi-theme-font:major-latin;mso-bidi-font-family:Arial;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Nombra los XML&lt;br&gt;conforme la&lt;b&gt; (RNA057)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-36.28999999999999" y="2460" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-289" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;div&gt;Se deberán de omitir de la generación de XML, los registros que&lt;/div&gt;&lt;div&gt;pertenezcan a la dependencia “SEMAR”&amp;nbsp; pero si se almacenan conforme a la (RNA043).&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="200" x="600" y="2073" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-294" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-293" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-291" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Valida&amp;nbsp;&lt;span style=&quot;font-family: Montserrat;&quot;&gt;que la generación de&lt;br/&gt;los XML cumpla con lo definido en el Anexo 20 de la Resolución Miscelánea&lt;br/&gt;Fiscal para 2022, conforme a la &lt;b style=&quot;&quot;&gt;(RNA037)&lt;/b&gt;.&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="146.29" x="-50" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-300" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-299" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-304" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-303" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-293" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Inicia Timbrado" vertex="1">
+          <mxGeometry height="60" width="120" x="-36.295" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-297" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&lt;br/&gt;mso-bidi-font-style:italic&quot;&gt;El sistema almacena las pistas de auditoría&lt;br/&gt;conforme la &lt;b&gt;(RNA031)&lt;/b&gt; y c&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:&lt;br/&gt;Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;ontinúa&lt;br/&gt;en el paso 6 del presente flujo.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="193" x="-282" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-302" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-301" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-299" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&lt;br/&gt;mso-bidi-font-style:italic&quot;&gt;El sistema almacena las pistas de auditoría&lt;br/&gt;conforme la &lt;b&gt;(RNA031)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-236.29500000000002" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-301" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;El sistema guarda el movimiento realizado&lt;br&gt;por el Empleado SAT de acuerdo con la &lt;b&gt;(RNA005)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="146.29" x="-436.29" y="2660" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-306" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-305" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-303" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="El&amp;nbsp;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;sistema de timbrado debe realizar el timbrado&lt;br&gt;conforme las reglas:&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA032&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– RFC genéricos&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA033&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– Marcaje&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA034&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– Datos del SAT como emisor&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA035&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– Llave de operación de pago agrupado&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA036&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;- &lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;Datos para incorporarse en la descripción del concepto de la factura&lt;br&gt;electrónica&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA039&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– Fecha de timbrado&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA040&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;– Lista de resultado&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA042&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;- &lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;Clave de asignación, uso de CFDI&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;mso-bidi-font-style:italic&quot;&gt;RNA043&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA;mso-bidi-font-style:italic&quot;&gt;&amp;nbsp;- &lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;Dependencias excluidas&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;&amp;lt;br/&amp;gt;font-family:Montserrat;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;lt;br/&amp;gt;Arial;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="326.29" x="-139.44" y="2790" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-308" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-307" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-305" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="Termina timbrado" vertex="1">
+          <mxGeometry height="60" width="120" x="-36.29499999999999" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-310" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-309" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-307" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;El sistema g&lt;/span&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;mso-fareast-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&amp;lt;br/&amp;gt;ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;uarda los resultados del timbrado para la consulta en el módulo&amp;nbsp;&lt;b&gt;“Consultar Información de Proceso”&lt;/b&gt; &lt;b&gt;(21_3091_ECU_Consultar informacion de Proceso)&lt;/b&gt;, donde se permite descargar los archivos XML timbrados y el archivo Excel con el listado que vincula el número línea de captura con el UUID que le corresponde, listado de los XML con incidencia y los registros descartados conforme a la &lt;b&gt;(RNA059)&lt;/b&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="360" x="-156.29" y="3130" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-309" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="-16.859999999999992" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-315" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-314" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-311" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=left;rounded=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="1330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-313" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MAT66_10_05_2026_01" vertex="1">
+          <mxGeometry height="30" width="60" x="-40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-317" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-314" parent="1" style="whiteSpace=wrap;html=1;align=center;rounded=0;" value="Usuario DPA ingresa al Modulo Reporte de Estadisticos" vertex="1">
+          <mxGeometry height="70" width="165" x="1297.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-318" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Fecha de inicio: 01/05/206&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fecha final: 30/05/2026&lt;/span&gt;" vertex="1">
+          <mxGeometry height="94" width="175" x="1310" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-324" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-323" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="463.43000000000006" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-326" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-325" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-328" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDUVB4_bk2qrmLTNgyuY-327" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-323" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Fecha de inicio y Fecha final correctos" vertex="1">
+          <mxGeometry height="95" width="130" x="1111" y="415.93" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-335" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-334" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-325" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&lt;br/&gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;El sistema&lt;br/&gt;busca la información en la base de datos conforme los criterios de búsqueda&lt;br/&gt;correctos.&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="95" width="175" x="1089" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-331" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-318" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883.6" y="327" />
+            </Array>
+            <mxPoint x="883.5" y="266.56500000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-327" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="*En&amp;nbsp;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;caso de que no se haya ingresado un periodo,&lt;span style=&quot;color: red;&quot;&gt; &lt;/span&gt;muestra el &lt;b&gt;(MSG001).&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;b&gt;*En&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;caso de que no se haya ingresado un periodo,&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: red;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;muestra el &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(MSG001).&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*&lt;/b&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de no existir ningún resultado en el periodo seleccionado, muestra el &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(MSG003).&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*&lt;/b&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso de ingresar un periodo mayor al permitido, muestra el &lt;/span&gt;&lt;b style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(MSG004).&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="146.87" width="247" x="760" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-332" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="1029" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-333" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Si" vertex="1">
+          <mxGeometry height="30" width="60" x="1128" y="515.9300000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-339" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-338" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-334" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Usuario Opta&amp;nbsp;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;por&lt;br&gt;la siguiente opcione:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;font-family:Montserrat;&amp;lt;br/&amp;gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;&amp;lt;br/&amp;gt;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;*Total&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de XML Generados&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*CFDI&lt;/span&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Timbrados&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;*XML con incidencia&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="185" x="1083.5" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-341" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-340" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-338" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;align=left;" value="Empleado SAT da clic en el hipervinculo XML con incidencia donde se encuentra el nombre del insumo que se cargo&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;MAT66_10_05_2026_01&lt;/span&gt;" vertex="1">
+          <mxGeometry height="94" width="208" x="1093.5" y="837" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-343" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-342" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-340" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;align=left;" value="Empleado SAT selecciona boton &quot;Descargar TXT&quot;" vertex="1">
+          <mxGeometry height="70" width="160" x="860" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-345" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="DDUVB4_bk2qrmLTNgyuY-344" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-342" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="El&amp;nbsp;&lt;span style=&quot;font-size: 10pt; font-family: Montserrat;&quot;&gt;sistema realiza la descarga de los resultados generales en TXT MAT66_10_05_2026_01INCIDENTES&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="268" x="850" y="987" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-349" edge="1" parent="1" source="DDUVB4_bk2qrmLTNgyuY-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="DDUVB4_bk2qrmLTNgyuY-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1182.6" />
+              <mxPoint x="740" y="495" />
+            </Array>
+            <mxPoint x="747.5" y="1182.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-344" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#333333;" value="Empleado SAT Verifica los registros con incidentes y los identifica desde la LLAVE de operacion de pago&amp;nbsp; y realiza las modificaciones&amp;nbsp;" vertex="1">
+          <mxGeometry height="125" width="185" x="860" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-352" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;*Valida que la nomeclatura del nombre del ZIP sea la correcta conforme a la &lt;b&gt;RNA007&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;*Valida que el nombre del ZIP no se encuentre cargado previamente en el aplicativo&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="155" width="185" x="381.5" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="DDUVB4_bk2qrmLTNgyuY-355" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="&lt;span style=&quot;font-family: Montserrat; font-size: 13.3333px; text-align: left;&quot;&gt;REPROCESO_MAT66_10_05_2026_01&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="545.9300000000001" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
